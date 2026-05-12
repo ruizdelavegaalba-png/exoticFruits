@@ -2,123 +2,123 @@
     "frutas": [
     {
         "id": "1",
-        "nombre": "Pitaya Rosa",
-        "familia": "Cactaceae",
-        "origen": "Centroamérica",
-        "sabor_perfil": "Dulce y refrescante",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cGl0YXlhLTEtMTAyNHg5MzhfajljbTFv/template_primary"
+        "name": "Pitaya Rosa",
+        "family": "Cactaceae",
+        "origin": "Centroamérica",
+        "flavor_profile": "Dulce y refrescante",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cGl0YXlhLTEtMTAyNHg5MzhfajljbTFv/template_primary"
     },
     {
         "id": "2",
-        "nombre": "Rambután",
-        "familia": "Sapindaceae",
-        "origen": "Sudeste Asiático",
-        "sabor_perfil": "Muy dulce y floral",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/UmFtYnV0YW5fbW04M2Vy/template_primary"
+        "name": "Rambután",
+        "family": "Sapindaceae",
+        "origin": "Sudeste Asiático",
+        "flavor_profile": "Muy dulce y floral",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/UmFtYnV0YW5fbW04M2Vy/template_primary"
     },
     {
         "id": "3",
-        "nombre": "Carambola",
-        "familia": "Oxalidaceae",
-        "origen": "Indonesia",
-        "sabor_perfil": "Agridulce",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/Y2FyYW1ib2xhX3d4M3p4bg==/template_primary"
+        "name": "Carambola",
+        "family": "Oxalidaceae",
+        "origin": "Indonesia",
+        "flavor_profile": "Agridulce",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/Y2FyYW1ib2xhX3d4M3p4bg==/template_primary"
     },
     {
         "id": "4",
-        "nombre": "Mangostán",
-        "familia": "Clusiaceae",
-        "origen": "Tailandia",
-        "sabor_perfil": "Cítrico y dulce",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/RGVwb3NpdHBob3Rvc18zNjU5Mzk5X29yaWdpbmFsX2NrbGRwZA==/template_primary"
+        "name": "Mangostán",
+        "family": "Clusiaceae",
+        "origin": "Tailandia",
+        "flavor_profile": "Cítrico y dulce",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/RGVwb3NpdHBob3Rvc18zNjU5Mzk5X29yaWdpbmFsX2NrbGRwZA==/template_primary"
     },
     {
         "id": "5",
-        "nombre": "Durián",
-        "familia": "Malvaceae",
-        "origen": "Malasia",
-        "sabor_perfil": "Cremoso e intenso",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/ZHVyaWFuLWxhcmdlX2RpYTJ2bw==/template_primary"
+        "name": "Durián",
+        "family": "Malvaceae",
+        "origin": "Malasia",
+        "flavor_profile": "Cremoso e intenso",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/ZHVyaWFuLWxhcmdlX2RpYTJ2bw==/template_primary"
     },
     {
         "id": "6",
-        "nombre": "Mano de Buda",
-        "familia": "Rutaceae",
-        "origen": "Himalaya",
-        "sabor_perfil": "Aromático y cítrico",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/TUFOTy1ERS1CVURBX25meTlmMQ==/template_primary"
+        "name": "Mano de Buda",
+        "family": "Rutaceae",
+        "origin": "Himalaya",
+        "flavor_profile": "Aromático y cítrico",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/TUFOTy1ERS1CVURBX25meTlmMQ==/template_primary"
     },
     {
         "id": "7",
-        "nombre": "Jackfruit",
-        "familia": "Moraceae",
-        "origen": "India",
-        "sabor_perfil": "Mezcla de piña y mango",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/SmFja2ZydWl0LTEwMjR4NjgwX2tzdGYwdg==/template_primary"
+        "name": "Jackfruit",
+        "family": "Moraceae",
+        "origin": "India",
+        "flavor_profile": "Mezcla de piña y mango",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/SmFja2ZydWl0LTEwMjR4NjgwX2tzdGYwdg==/template_primary"
     },
     {
         "id": "8",
-        "nombre": "Kiwano",
-        "familia": "Cucurbitaceae",
-        "origen": "África",
-        " sabor_perfil": "Pepino y limón",
-        " imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/S0lXQU5PUy0xLWUxNzEzNDI2ODM1MjgxX2o3NWxzbw==/template_primary"
+        "name": "Kiwano",
+        "family": "Cucurbitaceae",
+        "origin": "África",
+        "flavor_profile": "Pepino y limón",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/S0lXQU5PUy0xLWUxNzEzNDI2ODM1MjgxX2o3NWxzbw==/template_primary"
     },
     {
         "id": "9",
-        "nombre": "Salak",
-        "familia": "Arecaceae",
-        "origen": "Java",
-        "sabor_perfil": "Manzana seca y dulce",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/NDE4N2JscDlNR0wuX0FDX1VGMTAwMF8xMDAwX1FMODBfX2JzcTRtaw==/template_primary"
+        "name": "Salak",
+        "family": "Arecaceae",
+        "origin": "Java",
+        "flavor_profile": "Manzana seca y dulce",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/NDE4N2JscDlNR0wuX0FDX1VGMTAwMF8xMDAwX1FMODBfX2JzcTRtaw==/template_primary"
     },
     {
         "id": "10",
-        "nombre": "Physalis",
-        "familia": "Solanaceae",
-        "origen": "Región Andina",
-        "sabor_perfil": "Ácido y dulce",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cHJfM18yMDIzMTIyMDEwMTQyM193d2dsa3I=/template_primary"
+        "name": "Physalis",
+        "family": "Solanaceae",
+        "origin": "Región Andina",
+        "flavor_profile": "Ácido y dulce",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cHJfM18yMDIzMTIyMDEwMTQyM193d2dsa3I=/template_primary"
     },
     {
         "id": "11",
-        "nombre": "Maracuyá",
-        "familia": "Passifloraceae",
-        "origen": "Amazonía",
-        "sabor_perfil": "Muy ácido y aromático",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/bWFyYWN1eWEtdGhlLWJlc3RfZ3p5Ym1s/template_primary"
+        "name": "Maracuyá",
+        "family": "Passifloraceae",
+        "origin": "Amazonía",
+        "flavor_profile": "Muy ácido y aromático",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/bWFyYWN1eWEtdGhlLWJlc3RfZ3p5Ym1s/template_primary"
     },
     {
         "id": "12",
-        "nombre": "Longan",
-        "familia": "Sapindaceae",
-        "origen": "China",
-        "sabor_perfil": "Dulce parecido a la uva",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cG5ndHJlZS1sb25nYW4tb24tYS10cmFuc3BhcmVudC1iYWNrZ3JvdW5kLXBuZy1pbWFnZV8yMDgzMTY2Nl95ZXJpNXg=/template_primary"
+        "name": "Longan",
+        "family": "Sapindaceae",
+        "origin": "China",
+        "flavor_profile": "Dulce parecido a la uva",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/cG5ndHJlZS1sb25nYW4tb24tYS10cmFuc3BhcmVudC1iYWNrZ3JvdW5kLXBuZy1pbWFnZV8yMDgzMTY2Nl95ZXJpNXg=/template_primary"
     },
     {
         "id": "13",
-        "nombre": "Litchi",
-        "familia": "Sapindaceae",
-        "origen": "Sur de China",
-        "sabor_perfil": "Dulce y acuoso",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/aXN0b2NrcGhvdG8tMTQzNTczMTMzMi02MTJ4NjEyX3d0b3RxeA==/template_primary"
+        "name": "Litchi",
+        "family": "Sapindaceae",
+        "origin": "Sur de China",
+        "flavor_profile": "Dulce y acuoso",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/aXN0b2NrcGhvdG8tMTQzNTczMTMzMi02MTJ4NjEyX3d0b3RxeA==/template_primary"
     },
     {
         "id": "14",
-        "nombre": "Noni",
-        "familia": "Rubiaceae",
-        "origen": "Pan-tropical",
-        "sabor_perfil": "Amargo y fuerte",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/bm9uaS1mcnVpdHMtb24td2hpdGUtYmFja2dyb3VuZC1waG90b196NmFreXg=/template_primary"
+        "name": "Noni",
+        "family": "Rubiaceae",
+        "origin": "Pan-tropical",
+        "flavor_profile": "Amargo y fuerte",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/bm9uaS1mcnVpdHMtb24td2hpdGUtYmFja2dyb3VuZC1waG90b196NmFreXg=/template_primary"
     },
     {
         "id": "15",
-        "nombre": "Granadilla",
-        "familia": "Passifloraceae",
-        "origen": "Montañas de los Andes",
-        "sabor_perfil": "Dulce suave y gelatinoso",
-        "imagen": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/Z3JhbmFkaWxsYS1wYXNzaW9uZnJ1aXQtMHgyYy0tYS13b25kZXJmdWxseS1zd2VldC1mcnVpdC10aGF0LWlzLWEtbXVzdC10cnktdG8tZXhvdGljLWZydWl0LWxvdmVycy0weDJjLS1pcy1hdmFpbGFibGUtdG8tYnV5LW5vdy1mcm9tLW15ZXhvdGljZnJ1aXQtMHgyZS1jb20tMTcxNTI1ODc2NTg4OV9ybHZ2b3c=/template_primary"
+        "name": "Granadilla",
+        "family": "Passifloraceae",
+        "origin": "Montañas de los Andes",
+        "flavor_profile": "Dulce suave y gelatinoso",
+        "image": "https://res-console.cloudinary.com/daul6tzck/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/Z3JhbmFkaWxsYS1wYXNzaW9uZnJ1aXQtMHgyYy0tYS13b25kZXJmdWxseS1zd2VldC1mcnVpdC10aGF0LWlzLWEtbXVzdC10cnktdG8tZXhvdGljLWZydWl0LWxvdmVycy0weDJjLS1pcy1hdmFpbGFibGUtdG8tYnV5LW5vdy1mcm9tLW15ZXhvdGljZnJ1aXQtMHgyZS1jb20tMTcxNTI1ODc2NTg4OV9ybHZ2b3c=/template_primary"
     }
     ]
 }
